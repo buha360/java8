@@ -26,8 +26,11 @@ public class KISS {
         printer1.print();
         Printer<Double> printer2 = new Printer<>(23.825);
         printer2.print();
+        /*
         Printer<String> printer3 = new Printer<>("23.825 - asd");
         printer3.print();
+
+         */
     }
 
     public static void filteredList() {
